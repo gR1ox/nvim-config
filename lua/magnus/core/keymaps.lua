@@ -12,6 +12,3 @@ km.set("n", "gd", "<cmd>lua vim.lsp.buf.definition()<CR>", { desc = "Goes to fun
 km.set("n", "<leader>op", ":tabnew<CR>", { desc = "Makes current file into a tab" })
 km.set("n", "<leader>cp", ":tabc<CR>", { desc = "Closes current tab" })
 
-
-
-
